@@ -3,7 +3,7 @@ using namespace std;
 // sedikit modifikasi menggunakan oop
 class Fungsi{
     public:
-    int harga, diskon, total;
+    double harga, diskon; int total;
     void calcDiskon(){
         total = harga - (harga * diskon / 100);
     }
