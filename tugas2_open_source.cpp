@@ -7,19 +7,20 @@ class Fungsi{
     char grade;
     bool lulus = true;
     void calcGrade(){
-        if(nilai){
+        if(nilai >= 60){
             if(nilai >= 85){
                 grade = 'A';
             } else if(nilai >= 70 && nilai <= 84){
                 grade = 'B';
             } else if (nilai >= 60 && nilai <= 69){
                 grade = 'C';
-            } else{
-                lulus = false;
-                cout << "Maaf anda tidak lulus" << endl;
-            }
+            } 
+        } else{
+            lulus = false;
+            cout << "Maaf anda tidak lulus" << endl;
         }
     }
+
     void execNilai(){
     calcGrade();
     if(lulus){
