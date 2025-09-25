@@ -10,9 +10,9 @@ class Fungsi{
         if(nilai){
             if(nilai >= 85){
                 grade = 'A';
-            } else if(nilai >= 70 && nilai < 84){
+            } else if(nilai >= 70 && nilai <= 84){
                 grade = 'B';
-            } else if(nilai >= 60 && nilai < 69){
+            } else if (nilai >= 60 && nilai <= 69){
                 grade = 'C';
             } else{
                 lulus = false;
