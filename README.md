@@ -1,17 +1,25 @@
-# Source Code Praktikum (Pertemuan ke 4)
-<hr>
-# Tugas 1
-Untuk tugas pertama : mengklasifikasikan diskon dari harga yang ditentukan "Menggunakan if elseif"
-Note: Modifikasi sedikit dengan metode OOP dasar.
-<hr>
-# Tugas 2
-Untuk tugas kedua : Mengklasifikasikan nilai dan predikat / grade siswa "Menggukanan nested if / bersarang"
-Note: Sedikit modifikasi dengan tambahan boolean dan OOP "Class based".
-<hr>
-# Tugas 3
-Untuk tugas terakhir : Mengklasifikasikan angka dengan menu makanan "Menggunakan Switch Case"
-Note: Modifikasi sedikit dengan OOP dasar.
-<hr>
-<h2>Sekian dan terima kasih....</h2>
+# 📘 Source Code Praktikum (Pertemuan 4)
 
+## ✨ Tugas 1
+**Klasifikasi Diskon**  
+- Menggunakan **if-elseif**.  
+- Dimodifikasi sedikit dengan metode **OOP dasar**.  
 
+---
+
+## ✨ Tugas 2
+**Klasifikasi Nilai dan Predikat (Grade)**  
+- Menggunakan **nested if / if bersarang**.  
+- Dimodifikasi dengan tambahan **boolean** dan pendekatan **Class-based OOP**.  
+
+---
+
+## ✨ Tugas 3
+**Klasifikasi Menu Makanan**  
+- Menggunakan **switch-case**.  
+- Dimodifikasi sedikit dengan **OOP dasar**.  
+
+---
+
+## 🙏 Penutup
+Sekian dan terima kasih....
